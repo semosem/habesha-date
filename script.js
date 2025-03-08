@@ -16,8 +16,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Initialize profiles data
     const profiles = [
         {
-            name: "Kidist",
-            age: 28,
+            name: "Mehalet",
+            age: 32,
             location: "Addis Ababa",
             bio: "Doctor who loves traditional Ethiopian cuisine and hiking in the mountains. Looking for someone to explore Addis with!",
             interests: ["Coffee Ceremonies", "Music", "Travel", "Cooking"]
@@ -30,15 +30,15 @@ document.addEventListener('DOMContentLoaded', () => {
             interests: ["Technology", "Jazz", "History", "Food"]
         },
         {
-            name: "Makeda",
+            name: "Ghion",
             age: 26,
             location: "Bahir Dar",
             bio: "University professor teaching literature. I love poetry, traditional dance, and spending time near Lake Tana. Looking for a thoughtful companion.",
             interests: ["Literature", "Dance", "Nature", "Teaching"]
         },
         {
-            name: "Yonas",
-            age: 30,
+            name: "Sem",
+            age: 42,
             location: "Gondar",
             bio: "Photographer capturing Ethiopia's beauty. When not behind the camera, I enjoy trekking and playing guitar. Seeking someone adventurous.",
             interests: ["Photography", "Music", "Outdoors", "Art"]
