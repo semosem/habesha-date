@@ -1,2 +1,2 @@
 # habesha-date
-habesha diaspora dating network
+habesha dating app proto
